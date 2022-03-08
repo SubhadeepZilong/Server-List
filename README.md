@@ -5,12 +5,11 @@ This contains game server list, useful when pinging.
 
 ##
 
-#### Authors
+#### Sources
 ```
 > fisune
 > tarkov-dev
 > pepsizerosugar
-> SubhadeepZilong
 ```
 ##
 
